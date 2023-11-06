@@ -66,6 +66,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For more information about Kira Group and their services, visit their [official website](https://telesphore-uwabera.github.io/Kira-Group-ltd/).
+For more information about Kira Group and their services, visit their [official website](https://kiragroupltd.netlify.app/).
 
 If you have any questions or need assistance, please contact Kira Group via the provided contact information in the Contact section of the website.
